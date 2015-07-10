@@ -156,7 +156,6 @@
 		9F4E1CE71B5003C500469936 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Yung Dai";
 				TargetAttributes = {
@@ -412,7 +411,6 @@
 				9F4E1D101B5003C500469936 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		9F4E1D111B5003C500469936 /* Build configuration list for PBXNativeTarget "AdaptiveLayoutTests" */ = {
 			isa = XCConfigurationList;
@@ -421,7 +419,6 @@
 				9F4E1D131B5003C500469936 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
